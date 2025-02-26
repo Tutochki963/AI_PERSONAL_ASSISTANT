@@ -6,6 +6,7 @@
 
 https://github.com/Tutochki963/AI_PERSONAL_ASSISTANT/blob/main/кекерке.JPG?raw=true
 https://github.com/Tutochki963/AI_PERSONAL_ASSISTANT/blob/main/вововповв.JPG?raw=true
+
 ---
 
 ## Функционал
